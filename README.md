@@ -32,3 +32,4 @@ The [Elastica Demonstration](https://github.com/Asheeshkrsharma/Modal-approach-t
 ## Recomendation
 [Mcharg, E. (1965). Erwin Kreyszig, Differential Geometry (2nd ed., Mathematical Expositions No. 11, Toronto and Oxford University Presses, 1964), pp. 377, 68s. Proceedings of the Edinburgh Mathematical Society, 14(4), 339-339. doi:10.1017/S0013091500009032](https://www.cambridge.org/core/journals/proceedings-of-the-edinburgh-mathematical-society/article/kreyszigerwin-differential-geometry-2nd-ed-mathematical-expositions-no-11-toronto-and-oxford-university-presses-1964-pp-377-68s/2C165E4607BEDC69322BE10934EF270F)
 
+[Fahimi, F. (2009). Autonomous robots. Modeling, Path Planning and Control.](https://link.springer.com/book/10.1007%2F978-0-387-09538-7)
