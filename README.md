@@ -25,6 +25,8 @@ However, the pose angles were calculated as
 
 [Chirikjian, G. S., & Burdick, J. W. (1990, May). An obstacle avoidance algorithm for hyper-redundant manipulators. In Proceedings., IEEE International Conference on Robotics and Automation (pp. 625-631). IEEE.](https://ieeexplore.ieee.org/document/126052)
 
+[Fahimi, F. (2009). Autonomous robots. Modeling, Path Planning and Control.](https://link.springer.com/book/10.1007%2F978-0-387-09538-7)
+
 The [Elastica Demonstration](https://github.com/Asheeshkrsharma/Modal-approach-to-2D-elastica-s-inverse-kinematics-/tree/master/Elastica%20Demonstration) contains a processing sketch which demonstrates the inverse kinematics and the physical demonstration of a two dimensional stretchable spring.
 
 ## Recomendation
