@@ -26,3 +26,7 @@ However, the pose angles were calculated as
 [Chirikjian, G. S., & Burdick, J. W. (1990, May). An obstacle avoidance algorithm for hyper-redundant manipulators. In Proceedings., IEEE International Conference on Robotics and Automation (pp. 625-631). IEEE.](https://ieeexplore.ieee.org/document/126052)
 
 The [Elastica Demonstration](https://github.com/Asheeshkrsharma/Modal-approach-to-2D-elastica-s-inverse-kinematics-/tree/master/Elastica%20Demonstration) contains a processing sketch which demonstrates the inverse kinematics and the physical demonstration of a two dimensional stretchable spring.
+
+## Recomendation
+Mcharg, E. (1965). Erwin Kreyszig, Differential Geometry (2nd ed., Mathematical Expositions No. 11, Toronto and Oxford University Presses, 1964), pp. 377, 68s. Proceedings of the Edinburgh Mathematical Society, 14(4), 339-339. doi:10.1017/S0013091500009032
+
