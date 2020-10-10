@@ -38,6 +38,10 @@ The [Elastica Demonstration](https://github.com/Asheeshkrsharma/Modal-approach-t
 [Fahimi, F. (2009). Autonomous robots. Modeling, Path Planning and Control.](https://link.springer.com/book/10.1007%2F978-0-387-09538-7)
 
 ## Inverse kinemetics of a hyper-redundant optical waveguide
-[Optical-inverse-kinematics-of-a-Hyper-Redundant-Manipulator-Waveguide.ipynb]('https://github.com/Asheeshkrsharma/Modal-approach-to-2D-elastica-s-inverse-kinematics-/blob/master/Optical-inverse-kinematics-of-a-Hyper-Redundant-Manipulator-Waveguide.ipynb')
+
+[Optical-inverse-kinematics-of-a-Hyper-Redundant-Manipulator-Waveguide.ipynb](https://github.com/Asheeshkrsharma/Modal-approach-to-2D-elastica-s-inverse-kinematics-/blob/master/Optical-inverse-kinematics-of-a-Hyper-Redundant-Manipulator-Waveguide.ipynb)
 
 In this notebook, we look at a unique hyper-redundant manipulator which is controlled by manipulating light to create bends as per the modal approach. The objective of this notebook is to visualize the refractive index field as it would look like inside a waveguide with a given back-bone curve. Using this field we can highlight certain areas where the intensity of light must increased.
+
+### Recomendation
+[Cao, Yinghui & Mittra, Raj & Liu, Zhenyu & Zheng, Jie. (2017). Sharp bend in two-dimensional optical waveguide based on gradient refractive index structure. Applied Optics. 56. 5336. 10.1364/AO.56.005336. ](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-56-19-5336)
