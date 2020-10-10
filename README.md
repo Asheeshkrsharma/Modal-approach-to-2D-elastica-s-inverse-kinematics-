@@ -5,6 +5,7 @@
 The model consists of angular and linear springs, as shown below:
 
 ![](https://github.com/Asheeshkrsharma/Modal-approach-to-2D-elastica-s-inverse-kinematics-/blob/master/resources/model.svg)
+![](https://github.com/Asheeshkrsharma/Modal-approach-to-2D-elastica-s-inverse-kinematics-/blob/master/resources/Hyper-redundant-waveguide-manipulator.gif)
 
 For details, please have a look at
 
