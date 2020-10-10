@@ -1,6 +1,6 @@
 # 2D-Elastica and a modal approach to its inverse kinematics
 <p align="center">
-  <img src="https://github.com/Asheeshkrsharma/Modal-approach-to-2D-elastica-s-inverse-kinematics-/blob/master/resources/Dem.gif" width="284" title="hover text">
+  <img src="https://github.com/Asheeshkrsharma/Modal-approach-to-2D-elastica-s-inverse-kinematics-/blob/master/resources/Dem.gif" width="283" title="hover text">
   <img src="https://github.com/Asheeshkrsharma/Modal-approach-to-2D-elastica-s-inverse-kinematics-/blob/master/resources/Hyper-redundant-waveguide-manipulator.gif" width="430" alt="accessibility text">
 </p>
 
