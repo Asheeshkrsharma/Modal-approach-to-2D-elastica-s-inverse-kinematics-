@@ -2,6 +2,11 @@
 ![](https://github.com/Asheeshkrsharma/Modal-approach-to-2D-elastica-s-inverse-kinematics-/blob/master/resources/Dem.gif)
 ![](https://github.com/Asheeshkrsharma/Modal-approach-to-2D-elastica-s-inverse-kinematics-/blob/master/resources/Hyper-redundant-waveguide-manipulator.gif)
 
+<p align="center">
+  <img src="https://github.com/Asheeshkrsharma/Modal-approach-to-2D-elastica-s-inverse-kinematics-/blob/master/resources/Dem.gif" width="350" title="hover text">
+  <img src="https://github.com/Asheeshkrsharma/Modal-approach-to-2D-elastica-s-inverse-kinematics-/blob/master/resources/Hyper-redundant-waveguide-manipulator.gif" width="350" alt="accessibility text">
+</p>
+
 ## The Elastica
 The model consists of angular and linear springs, as shown below:
 
