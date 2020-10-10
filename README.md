@@ -23,7 +23,7 @@ However, the pose angles were calculated as
 
 ![](https://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Cfn_cm%20%5Clarge%20%5Ctilde%7Bq%7D_j%20%3D%20arctan%28%5Cfrac%7Bx_1%28s_j%29%20-%20x_1%28s_%7Bj-1%7D%29%7D%7Bx_2%28s_j%29%20-%20x_2%28s_%7Bj-1%7D%29%7D%29)
 
-## Usage
+### Usage
 [BackboneCurveGeneration.ipynb](https://github.com/Asheeshkrsharma/Modal-approach-to-2D-elastica-s-inverse-kinematics-/blob/master/BackboneCurveGeneration.ipynb) is a jupyter notebook which computes a 2 modal backbone curve. The end-effector values `xee` and `yee` can be changed to the desired position. The contribution factor `a1` can be negated to get the alternate pose. The given `xee` and `yee` (or commented) are from the above paper and:
 
 [Chirikjian, G. S., & Burdick, J. W. (1990, May). An obstacle avoidance algorithm for hyper-redundant manipulators. In Proceedings., IEEE International Conference on Robotics and Automation (pp. 625-631). IEEE.](https://ieeexplore.ieee.org/document/126052)
@@ -32,7 +32,10 @@ However, the pose angles were calculated as
 
 The [Elastica Demonstration](https://github.com/Asheeshkrsharma/Modal-approach-to-2D-elastica-s-inverse-kinematics-/tree/master/Elastica%20Demonstration) contains a processing sketch which demonstrates the inverse kinematics and the physical demonstration of a two dimensional stretchable spring.
 
-## Recomendation
+### Recomendation
 [Mcharg, E. (1965). Erwin Kreyszig, Differential Geometry (2nd ed., Mathematical Expositions No. 11, Toronto and Oxford University Presses, 1964), pp. 377, 68s. Proceedings of the Edinburgh Mathematical Society, 14(4), 339-339. doi:10.1017/S0013091500009032](https://www.cambridge.org/core/journals/proceedings-of-the-edinburgh-mathematical-society/article/kreyszigerwin-differential-geometry-2nd-ed-mathematical-expositions-no-11-toronto-and-oxford-university-presses-1964-pp-377-68s/2C165E4607BEDC69322BE10934EF270F)
 
 [Fahimi, F. (2009). Autonomous robots. Modeling, Path Planning and Control.](https://link.springer.com/book/10.1007%2F978-0-387-09538-7)
+
+## Inverse kinemetics of a hyper-redundant optical waveguide
+In this notebook, we look at a unique hyper-redundant manipulator which is controlled by manipulating light to create bends as per the modal approach. The objective of this notebook is to visualize the refractive index field as it would look like inside a waveguide with a given back-bone curve. Using this field we can highlight certain areas where the intensity of light must increased.
